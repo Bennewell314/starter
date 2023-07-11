@@ -1,3 +1,3 @@
-$ mkdir communication-log-control
-$ cd communication-log-control
-$ git init
+mkdir communication-log-control
+cd communication-log-control
+git init
